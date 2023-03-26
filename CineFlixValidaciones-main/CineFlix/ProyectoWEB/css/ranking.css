@@ -1,0 +1,77 @@
+.bg-dark {
+    
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+    font-family: Verdana, Geneva, sans-serif; 
+    padding-right: 5px;
+
+}
+    
+.logo img {
+    width: 100px;
+    height: 60px;
+}
+ .btn-primary:hover{
+    color: white;
+    background-color: red;
+    border-color: ghostwhite !important;
+   
+
+}
+
+.btn-primary {
+    color: black;
+    background-color: ghostwhite;
+    border-color: red;
+    }
+
+
+li h1{
+    font-family: fantasy;
+    text-shadow: black;
+    text-decoration: none;
+   
+}
+li h2{
+        font-family: fantasy;
+        text-shadow: black;
+        text-decoration: none;
+    
+    }
+
+li{
+    list-style: none;
+    
+}
+.container{
+    background-color:#570000;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    color: white;
+    border-radius: 20px;
+    width: 50%;
+    margin-bottom: 15px;
+    border-color: black;
+    
+}
+
+img, svg {
+    vertical-align: middle;
+    border-radius: 5px;
+   
+}
+
+ h1{
+font-family: fantasy;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: right;
+    padding: 5px;
+}

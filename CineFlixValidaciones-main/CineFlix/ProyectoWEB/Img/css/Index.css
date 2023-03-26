@@ -1,0 +1,33 @@
+.navbar-inverse {
+    background-color: #bf0000;
+    border-color: #080808;
+   
+}
+.p{
+    font-size: 20px !important;
+    font-weight: bold;
+    font-family:sans-serif;
+    text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px darkblue, 0 0 25px  purple, 0 0 25px  red;
+  
+    
+    }
+
+.navbar-inverse .navbar-nav>li>a {
+        color: white;
+        
+    } 
+    
+#myCarousel {
+    padding: 30px 20 px;
+    margin-bottom: 20px;
+   
+}
+
+footer {
+ text-align:end; 
+ text-shadow: gray;
+ background-color: black;
+ color: white;
+ padding: 20px;
+}   
+

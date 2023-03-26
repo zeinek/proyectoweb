@@ -1,0 +1,79 @@
+.bg-dark {
+    
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+    font-family: Verdana, Geneva, sans-serif; 
+    padding-right: 5px;
+}
+
+.logo img {
+    width: 100px;
+    height: 60px;
+}
+
+ .btn-primary {
+    color: black;
+    background-color: ghostwhite;
+    border-color: red;
+    }
+
+.btn-primary:hover{
+    color: white;
+    background-color: red;
+    border-color: ghostwhite !important;
+   
+
+}
+
+.d-block {
+    display: block !important;
+    width: 75% !important;
+    margin: auto;
+}
+
+.carousel-item-next, .carousel-item-prev, .carousel-item.active {
+    display: block;
+    background-color: black;
+}
+
+.caption p {
+    font-size: 30px !important;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a{
+    
+    text-decoration: none;
+}
+
+.row {
+    
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 1px;
+    
+}
+
+img, svg {
+    vertical-align: middle;
+    padding-top: 10px;
+    
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: right;
+    padding: 5px;
+}
+
+h1{
+    font-family: fantasy;
+    }
