@@ -1,0 +1,73 @@
+.bg-dark {
+    
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+    font-family: Verdana, Geneva, sans-serif; 
+    padding-right: 5px;
+
+}
+    
+.logo img {
+    width: 100px;
+    height: 60px;
+}
+ .btn-primary:hover{
+    color: white;
+    background-color: red;
+    border-color: ghostwhite !important;
+   
+
+}
+
+.btn-primary {
+    color: black;
+    background-color: ghostwhite;
+    border-color: red;
+    }
+
+
+
+
+img, svg {
+    vertical-align: middle;
+    border-radius: 5px;
+    
+}
+
+ h1{
+font-family: fantasy;
+}
+
+.edit img{
+    width: 100% !important;
+    
+}
+
+.mt-3 {
+    margin-top: 1rem!important;
+    padding-bottom: 20px;
+}
+
+.btn button{
+    background-color: black;
+    color: white;
+    border-color: white;
+    border-radius: 50 px;
+    text-transform: uppercase;
+    font-family:fantasy
+}
+.btn button:hover{
+    color: red;
+    background-color: black;
+    border-color: red;
+   } 
+footer{
+    background-color: black;
+    color: white;
+    text-align: right;
+    padding: 5px;
+}
