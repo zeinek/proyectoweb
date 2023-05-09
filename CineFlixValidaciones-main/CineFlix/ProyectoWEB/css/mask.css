@@ -29,6 +29,10 @@
     border-color: red;
     }
 
+.box{
+    display: grid;
+    place-items: center;
+}
 
 
 
