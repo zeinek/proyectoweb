@@ -27,7 +27,7 @@ const genres = [
     },
     {
       "id": 99,
-      "name": "Docuemntales"
+      "name": "Documentales"
     },
     {
       "id": 18,
@@ -79,7 +79,7 @@ const genres = [
     },
     {
       "id": 37,
-      "name": "Occidental"
+      "name": "Occidente"
     }
   ]
 
